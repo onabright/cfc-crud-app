@@ -1,0 +1,15 @@
+body{
+	padding: 60px;
+}
+
+form label{
+	font-weight: bold;
+}
+
+.thumb-image{
+	width: 50px;
+}
+
+.update-image{
+	width: 200px;
+}
